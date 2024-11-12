@@ -1,8 +1,8 @@
-# Groupie-Tracker-Search-Search-bar
+# Groupie-Tracker-Visualizations
 
 ## Project Overview
  
-Groupie-Tracker-Search-bar is a web application that enables music enthusiasts to explore their favorite artists and bands. Users can view artist profiles, discographies, concert locations, and similar artist recommendations. The project includes a powerful search functionality to enhance user experience by allowing searches across various artist attributes, such as name, band members, and first album release date.
+Groupie-Tracker-Visualizations is a web application that enables music enthusiasts to explore their favorite artists and bands. Users can view artist profiles, discographies, concert locations, and similar artist recommendations. The project includes a powerful search functionality to enhance user experience by allowing searches across various artist attributes, such as name, band members, and first album release date.
 
 ### Features:
 
@@ -18,11 +18,23 @@ Groupie-Tracker-Search-bar is a web application that enables music enthusiasts t
    - Creation date
 
 ### Project Objectives
-The Groupie-Tracker-Search-bar project is intended to build a web-based program that allows searching within a database of artist profiles. This functionality includes:
- 1. Data Handling: Manipulation, display, and storage of artist data.
-2. Search Bar: Case-insensitive search across various fields, with suggestions provided in real time.
-3. Typing Suggestions: Each suggestion categorizes the result type (e.g., artist, member).
-4. HTML and JavaScript: Handling events and dynamically displaying search suggestions.
+The Groupie-Tracker Visualizations project aims to develop a user-friendly web application that displays artist data from an API in an accessible and visually appealing format. The project objectives include:
+
+1.   Data Management: Effectively manipulate, store, and display artist data from the API to enhance user experience.
+
+2.  Search Functionality: Implement a case-insensitive search bar with real-time suggestions, categorizing results by type (e.g., artist, member).
+
+3.  User Interface Design: Follow Schneiderman's 8 Golden Rules of Interface Design for a seamless experience:
+      - Strive for consistency in design elements and interaction.
+      - Enable frequent users to use shortcuts for efficiency.
+      - Offer informative feedback to guide user actions.
+      - Design dialogues to yield closure by providing clear completion feedback.
+      - Provide simple error handling with intuitive responses to user errors.
+      - Permit easy reversal of actions to encourage exploration.
+      - Support an internal locus of control so users feel in command of the interface.
+      - Reduce short-term memory load by keeping interactions simple and intuitive.
+
+4. HTML and JavaScript Integration: Use these tools to dynamically handle events, display search suggestions, and enhance overall interactivity.
 
 ### Technologies Used:
 - Frontend: HTML, CSS, JavaScript
@@ -37,7 +49,7 @@ The Groupie-Tracker-Search-bar project is intended to build a web-based program 
 ### Installation
 1. Clone the repository: 
 ```bash
-git clone https://learn.zone01kisumu.ke/git/allkamau/groupie-tracker-search-bar.git
+git clone https://learn.zone01kisumu.ke/git/rodnochieng/groupie-tracker-visualizations.git
 ```
 2. Navigate to the project directory:
 ```bash
@@ -56,8 +68,7 @@ Contributions are welcome! If you'd like to contribute to Groupie Tracker, pleas
 
 1. Fork the repository:
 ```bash
- git forkhttps://learn.zone01kisumu.ke/git/allkamau/groupie-tracker-search-bar.git
- ```
+ git fork https://learn.zone01kisumu.ke/git/rodnochieng/groupie-tracker-visualizations.git
 2. Create a new branch:
 ```bash
  git branch feature/new-feature
@@ -82,6 +93,5 @@ Groupie Tracker is licensed under the MIT License. See [LICENSE](LICENSE) for de
 
 ### Author
 - [Allan Kamau](https://github.com/Githaiga22)
-- [Fred Gitonga](https://github.com/FredMunene)
 - [Rodney Otieno](https://github.com/rodneyo1)
 
