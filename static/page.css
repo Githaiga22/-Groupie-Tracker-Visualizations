@@ -54,6 +54,11 @@ th, td {
 }
 
 th {
-    background-color: #f2f2f2; /* Background color for header cells */
+    background-color: rgba(167, 14, 238, 0.8);/* Background color for header cells */
+}
+
+.concerts td.places {
+    background-color: #f9f9f900; /* Light background color for the cells */
+    color: #333333; /* Text color for readability */
 }
 
